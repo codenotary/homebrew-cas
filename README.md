@@ -1,7 +1,7 @@
 # Codenotary Homebrew Tap 
-Install the Codenotary vcn CLI with
+Install the CAS CLI with
 
-    $ brew tap codenotary/vcn-ce
-    $ brew install vcn
+    $ brew tap codenotary/cas
+    $ brew install cas
 
-For more information, visit https://www.codenotary.io
+For more information, visit https://www.cas.codenotary.com
