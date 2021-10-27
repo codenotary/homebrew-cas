@@ -1,6 +1,6 @@
 class Cas < Formula
     desc "Community Attestation Service"
-    homepage "https://www.cas.codenotary.com"
+    homepage "https://cas.codenotary.com/"
     version "v1.0.0"
     if OS.mac?
         url "https://github.com/codenotary/cas/releases/download/#{version}/cas-#{version}-darwin-amd64"
